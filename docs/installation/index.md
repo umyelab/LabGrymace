@@ -25,11 +25,14 @@ usage
 
 ## Pretrained Models
 
-Pretrained Detector and Categorizer models are available from the [LabGym Zoo](https://github.com/umyelab/LabGym/blob/master/LabGym_Zoo.md).
+LabGrymace requires two pretrained models, both available from the [LabGym Zoo](https://github.com/umyelab/LabGym/blob/master/LabGym_Zoo.md):
 
-After updating the models:
+- the Detector `2026.4.6 detector Facial expression`, which tracks the ear, eye, and nose regions.
+- the Categorizer `LabGrymace_categorizer`, which classifies the facial-region states used to compute the pain score.
 
-- place Detector models in `LabGym_LabGrymace/LabGym_LabGrymace_copy/detectors/`
-- place Categorizer models in `LabGym_LabGrymace/LabGym_LabGrymace_copy/models/`
+After downloading the models:
 
-Then select the desired models in the LabGym_LabGrymace GUI.
+- place the Detector in `LabGym_LabGrymace/LabGym_LabGrymace_copy/detectors/`
+- place the Categorizer in `LabGym_LabGrymace/LabGym_LabGrymace_copy/models/`
+
+Then select the two models in the LabGym_LabGrymace GUI.
