@@ -86,3 +86,5 @@ contact@labgym.org
 If you use LabGrymace in publications, please cite [**LabGrymace**](https://doi.org/10.64898/2026.07.31.742042), [**LabGym1**](https://doi.org/10.1016/j.crmeth.2023.100415), and [**LabGym2**](https://doi.org/10.1101/2024.07.07.602350).
 
 ## [Installation](https://labgrymace-installation.readthedocs.io/en/latest/installation/index.html)
+
+Any questions please email to devindwj@umich.edu. We are working to improve the tool and have identified a few issues. Please feel free to contact me anytime.
